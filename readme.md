@@ -22,3 +22,7 @@ SwiftUI for front UI.
 C++ with Arduino IDE for embedded.
 
 ## Some Interesting Personal Projects
+
+## Core Believes
+
+Algorithms are important that they could solve a lot of things using relatively less capital. And they are capable enough, if they are powerful enough.
