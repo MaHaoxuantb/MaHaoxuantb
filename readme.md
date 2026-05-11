@@ -11,24 +11,7 @@ I appreciate myself and the people who collaborate with me using this language o
 ## What I DO
 Interested in and what stack I use normally
 
-iOS APPs
-- Swift
-- SwiftUI
-- Backend with Python
-
-DIY Rocketry
-- CFDs with OpenFoam
-- 3D modelling
-- Embeded programing
-
-Biological Algorithms
-- Python
-- Swift
-
-Home Accessary Projects
-- HomeAssistant ESPHome
-- 3D modelling
-- Embedded programing with Arduino IDE (C++)
+[Read More](stack.md)
 
 ## Stacks I use
 
