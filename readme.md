@@ -1,0 +1,9 @@
+### Hello World!
+
+This must have been the most beautiful word as a wish.
+
+It has been a few years since the first time I wrote my first few small programs in Python with Turtle. I could still remember.
+
+Then I fell in love with the structural elegance of the code, the beauty of logic with interactions (mainly UI and the experiences in the coding and the use of final products).
+
+I appreciate myself and the people who collaborate with me using this language of elegance. Thank you.
