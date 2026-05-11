@@ -11,13 +11,10 @@ I appreciate myself and the people who collaborate with me using this language o
 ## What I DO
 Interested in and what stack I use normally
 
-iOS APPs
-
-DIY Rocketry
-
-Biological Algorithms
-
-Home Accessary Projects
+- iOS APPs
+- DIY Rocketry
+- Biological Algorithms
+- Home Accessary Projects
 
 [Read More](stack.md)
 
